@@ -5,3 +5,15 @@
 **/wallets/**
 **/erdpy.data-storage.json
 **/*.interaction.json
+
+# Distribution specific
+cenarion_distro.json
+cenarion_distro.pem
+distribution.json
+
+# Node artifact files
+node_modules/
+dist/
+
+# Log files
+*.log
