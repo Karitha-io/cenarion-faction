@@ -19,3 +19,7 @@ When adding a new feature, open a PR and don't forget to add tests, snipets and 
 ## First challange
 
 Fill in the ```todo``` by implementing the ```buyCardFromDeadrare``` function.
+
+# REALM Distribution
+
+Scripts for distributing realm to various stakeholders in `distribution`
