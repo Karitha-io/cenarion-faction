@@ -23,7 +23,6 @@ const getHolders = async () => {
     erd1gusvmk76yynmjdgp8fppt34hyuhtkly5m2dnj7vqf80ml3t7z7esz4pplu: 1,
     erd1mg3u5fm0d4rquxpr7hxt096507ze4j4xpngfuweynewc9cphgy8q4y972q: 1,
     erd1ynraa8gnx9zzfcjvmzfh074fsgcrddgfg3qqlj7n3cygc8zhnc0sly4eyc: 1,
-    erd1za8rjr3e7wgyjl2svfkg3xt2pqkth4ap8nz47retp04k0q0ex46s8w472m: 1,
     erd12xun43zaej6kdh6eh0u9kku36x5wyzw4yqm74q52flep40wjxlhs3jyhjt: 1,
     erd1mhnca82w33zf9a87qw8yja5n390dc72va6xvycdjznkkl9269r3qfdg8ts: 1
   }
