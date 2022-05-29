@@ -1,7 +1,6 @@
 const getHolders = async () => {
   const holders = {
     erd1g79c8xdhx8tllz3dfvzurdrywpe75qyv0l0axecywpufqql9e86sz322s5: 2,
-    erd1x52y2fjvjg4rjlpptp8f836gde304evvyhcxujhzfyqvz0wgnkasah3u2h: 1,
     erd1pfs8xwfaypzyc8sm3dyufxamawhj7se68zdpw5njw9ppwgz7qfdqept4zn: 1,
     erd14vlkclg8pthhcjgaj84ejunpnff50q42ezcvantkapcjafkx5vtq5gd2xw: 2,
     erd1el4h5tk0pzxnnewr6hzevqjs8h27xu8uqxyn52fumf00c4end6fq3j4ft2: 2,
