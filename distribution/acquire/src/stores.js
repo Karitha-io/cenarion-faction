@@ -11,7 +11,7 @@ const getHolders = async () => {
     erd16wq3dksrqhgs3h8k7xvsjz6newwft2sfnqfkw047kcuktwnfzs2qd2knvl: 3,
     erd1f25nxfn68eslmp2hz956g3nlq39uqzktxlhmcjx5zvqnk50cjagqwj7ddj: 1,
     erd1s2489xc52r0d0rr256f0tgyx2mhkjzgxgk4czny5lk4lrehce6yqyufxj2: 1,
-    erd18cul26nuuvfn63ts7fyul3updx977mcpxxqtq2383ch72ulprrdquz3dz4: 1,
+    erd18cul26nuuvfn63ts7fyul3updx977mcpxxqtq2383ch72ulprrdquz3dz4: 2,
     erd1ywmzcy98pj7h99z553lmnfc7wvjufmjypwg6h5ltgfvcj3n8vavswnerra: 1,
     erd1urnrxzwq3n66rvs2rgzvux40fyckz5csmtdsguwmfctuyjnh50asdr0ju0: 1,
     erd1lgegrdtsm08cykzpg9tg6shy4r2pz8vh9lpqjupt6unqwk6828es5u9xw2: 1,
@@ -23,7 +23,8 @@ const getHolders = async () => {
     erd1mg3u5fm0d4rquxpr7hxt096507ze4j4xpngfuweynewc9cphgy8q4y972q: 1,
     erd1ynraa8gnx9zzfcjvmzfh074fsgcrddgfg3qqlj7n3cygc8zhnc0sly4eyc: 1,
     erd12xun43zaej6kdh6eh0u9kku36x5wyzw4yqm74q52flep40wjxlhs3jyhjt: 1,
-    erd1mhnca82w33zf9a87qw8yja5n390dc72va6xvycdjznkkl9269r3qfdg8ts: 1
+    erd1mhnca82w33zf9a87qw8yja5n390dc72va6xvycdjznkkl9269r3qfdg8ts: 1,
+    erd13ltpd0dyg3eafq5c55pzr29kyzv7f3c32ycgjtmhqp6elrchq2vq68d522: 1
   }
 
   return holders
